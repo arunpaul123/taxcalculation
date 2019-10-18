@@ -104,4 +104,10 @@ public class Taxcalculation implements ITaxcalculation {
 		
 	}
 
+
+	public double computeKiwiSaver(double income) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
 }
